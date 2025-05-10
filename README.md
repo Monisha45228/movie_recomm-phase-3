@@ -1,13 +1,5 @@
 # AI-Driven Movie Matchmaking System
 
-## Student Information
-**Student Name:** MONISHA J
-**Register Number:** 510623104068
-**Institution:** C. ABDUL HAKEEM COLLEGE OF ENGINEERING AND TECHNOLOGY
-**Department:** COMPUTER SCIENCE AND ENGINEERING
-**Date of Submission:** 16-05-2025
-**Github Repository Link:** [https://github.com/Monisha45228/movie_recomm-phase-3.git](https://github.com/Monisha45228/movie_recomm-phase-3.git)
-
 ## Problem Statement
 Users are often overwhelmed by the sheer volume of movie choices available and find current recommendation systems inadequate in surfacing truly relevant and enjoyable content. This disconnect stems from a lack of deep personalization that considers the multifaceted nature of individual preferences and viewing habits. The problem is to bridge this gap by developing an AI-driven matchmaking system that can accurately and intuitively connect users with movies they will love, enhancing their entertainment experience and fostering a stronger sense of discovery.
 
